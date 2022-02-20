@@ -1,0 +1,36 @@
+﻿body {
+    display: flex;
+}
+
+.header-login {
+    height: 100vh;
+    width: 50%;
+    background: #27a4ff;
+}
+
+.body-login {
+    height: 100vh;
+    width: 50%;
+    display: block;
+}
+
+    .body-login .input-info {
+        margin-top: 300px;
+        margin-bottom: 20px;
+    }
+
+        .body-login .input-info .input-info-one, .input-info-two {
+            padding: 10px;
+        }
+
+.input-info-one input {
+    margin-left: 30px;
+}
+
+.input-info-two input {
+    margin-left: 63px;
+}
+
+.input-button {
+    margin-left: 90px;
+}
